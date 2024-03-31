@@ -280,3 +280,4 @@ C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.We
 C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.pdb
 C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.genruntimeconfig.cache
 C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\ref\HouseRentingSystem.Web.dll
+C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Web\obj\Debug\net6.0\HouseRentingSystem.Web.sourcelink.json

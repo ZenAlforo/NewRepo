@@ -355,3 +355,4 @@ C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Te
 C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.pdb
 C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.genruntimeconfig.cache
 C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\ref\HouseRentingSystem.Tests.dll
+C:\Users\PARADISE\Desktop\CI 2\02-House-Renting-System-App\HouseRentingSystem.Tests\obj\Debug\net6.0\HouseRentingSystem.Tests.sourcelink.json

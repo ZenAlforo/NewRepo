@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30EAC5CD-4738-49AC-8D8B-7742D296C306}|HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj|c:\\users\\paradise\\desktop\\ci 2\\02-house-renting-system-app\\houserentingsystem.tests\\integrationstests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAC5CD-4738-49AC-8D8B-7742D296C306}|HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj|solutionrelative:houserentingsystem.tests\\integrationstests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAC5CD-4738-49AC-8D8B-7742D296C306}|HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj|c:\\users\\paradise\\desktop\\ci 2\\02-house-renting-system-app\\houserentingsystem.tests\\integrationstests\\statisticsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAC5CD-4738-49AC-8D8B-7742D296C306}|HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj|solutionrelative:houserentingsystem.tests\\integrationstests\\statisticsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|c:\\users\\paradise\\desktop\\ci 2\\02-house-renting-system-app\\houserentingsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|solutionrelative:houserentingsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatisticsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\IntegrationsTests\\StatisticsApiController.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Tests\\IntegrationsTests\\StatisticsApiController.cs",
+              "ToolTip": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\IntegrationsTests\\StatisticsApiController.cs",
+              "RelativeToolTip": "HouseRentingSystem.Tests\\IntegrationsTests\\StatisticsApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:52:57.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\IntegrationsTests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Tests\\IntegrationsTests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\IntegrationsTests\\HomeControllerTests.cs",
+              "RelativeToolTip": "HouseRentingSystem.Tests\\IntegrationsTests\\HomeControllerTests.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:52:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\HouseRentingSystem.Web\\Program.cs",
               "RelativeDocumentMoniker": "HouseRentingSystem.Web\\Program.cs",
               "ToolTip": "C:\\Users\\PARADISE\\Desktop\\CI 2\\02-House-Renting-System-App\\HouseRentingSystem.Web\\Program.cs",
               "RelativeToolTip": "HouseRentingSystem.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T13:34:18.138Z",
               "EditorCaption": ""
